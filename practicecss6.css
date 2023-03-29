@@ -1,0 +1,65 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.content-section {
+    font-family: Roboto;
+}
+
+.topsection {
+    background-color: #fb4e71;
+    color: #ffffff;
+    padding: 15px;
+}
+
+.main-heading {
+    font-size: 25px;
+}
+
+.bottom-section {
+    padding: 15px;
+    background-color: #e6f6ff;
+    height: 100vh;
+}
+
+.record-heading {
+    font-size: 16px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.record-card {
+    background-color: #ffffff;
+    border-radius: 20px;
+}
+
+.reccard {
+    padding: 6px;
+}
+
+.match {
+    font-size: 16px;
+}
+
+.record-content {
+    font-size: 14px;
+    color: #888888;
+}
+
+.video-heading {
+    font-size: 16px;
+    font-weight: bold;
+    padding: 10px;
+    padding-top: 15px;
+}
+
+.knock-card {
+    margin: 5px;
+}
+
+.vidpara {
+    color: #323f4b;
+    font-size: 12px;
+}
+
+.view-button {
+    text-align: center;
+}
